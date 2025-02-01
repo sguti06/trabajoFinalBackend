@@ -28,7 +28,4 @@
 7. VERIFICACIÓN DE ROLES: Dandole un rol especifico tanto a nuestros usuarios como a nuestros administradores, permitimos que estos puedan acceder a las peticiones permitidas, generando una logica de uso.
 
 PROYECTO REALIZADO POR:
-    Camilo Fetiva (Scrum Master)
-    Santiago Gutierrez (Developer)
-
-BOOTCAMP DE DESARROLLO WEB BIT 2024
+    Santiago Gutierrez 2024
